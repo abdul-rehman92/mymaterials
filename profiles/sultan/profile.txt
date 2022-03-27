@@ -1,0 +1,14 @@
+I have been a professional for +8 years, specializing in web development. 
+I am a hands-on Javascript and PHP expert, worked on many webapps and websites.
+
+I am looking to take part in unique and interesting / innovative projects.
+I can guarantee 100% customized solutions for your project.
+
+Languages & Skills:
+✔HTML, CSS, JavaScript, PHP, Node.js.
+✔Jquery, React.js(Next.js, Redux, Thunk, Saga), Angular.js, Vue.js
+✔Selenium, Puppeteer
+✔Laravel, Codeigniter, Express.js
+✔MySQL, Maria DB, Postgre SQL, Redis, Mongo DB, Couch DB
+✔Heroku, GCP, AWS EC2, Azure
+
