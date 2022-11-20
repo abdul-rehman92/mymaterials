@@ -1,0 +1,17 @@
+✋ I am a self-motivated professional software engineer with a strong work ethic and excellent interpersonal skills.
+I have 10+ years of experience specializing in Web and Blockchain development and have developed many projects alone or in a teamable.
+My skills are:
+- React.js, React-Redux, Redux-Saga, Next.js, Apollo, GraphQL
+- Angular.js / Angular2 - 10
+- Vue.js, VueX, Vuetify, Nuxt.js
+- JS, TS, jQuery, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI
+- Ionic framework, React Native, Cordova, Flutter, Android Studio, XCode
+- NodeJS, Express
+- PHP, Laravel, CodeIgniter, WordPress
+- MySQL, MongoDB, PostgreSQL, SQLite
+
+If you are looking for help with an existing product or looking to build a new one, I am here to help!
+
+A highly focused Frontend and Backend developer with 10+ years of experience in a variety of development projects. Organised, methodical and a keen eye for detail results in solid coding and trustworthy programmes.
+
+Understanding client requirements and communicating the progress of projects are core values in achieving long lasting business relationships.
